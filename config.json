@@ -33,18 +33,15 @@
     "AGE": "18",
     "GENDER": "𝗠𝗮𝗟𝗲",
     "FACEBOOK": "https://www.facebook.com/profile.php?id=61595102226262",
-    "AutoOffBot": "disable",
-    "AutoOffBotStartSleep": "disable",
+    "AutoOffBot": "enable",
+    "AutoOffBotStartSleep": "enable",
     "AutoOffBotSendMessage": "Bye everyone. i need to sleep i'll be right back at 5:00AM 🥰",
     "AutoOffBotEndSleep": "disable",
     "AutoGreet": "disable",
     "AutoGreetWithSticker": "enable",
     "AutoGreetSendPerHour": "1",
     "AutoPost": "disable",
-    "AutoPostText": "🖤 𝐓𝐡𝐢𝐬 𝐈𝐬 𝐌𝐲 𝗯𝗼𝘁 𝗶𝗱 🥀
-👑 𝐌𝐲  𝗶𝗱 • 𝐌𝐲 𝐑𝐮𝐥𝐞𝐬 🖤
-
- |🖤|",
+    "AutoPostText": "OWNER-𓏧ᥫ᭡‼ ️Ꭾʀɪ፝֟ɴᴄᴇᥫ᭡𓍯𓂃",
     "AutoPostPerHour": "1",
     "AutoPostGreet": "disable",
     "AutoPostGreetPostPerHour": "6",
@@ -53,13 +50,10 @@
     "ChristmasCountdown": "disable",
     "AcceptFriendRequest": "accept",
     "AutoPendingGroupChat": "accept",
-    "AutoBioStatus": "enable",
+    "AutoBioStatus": "disable",
     "AutoBioStatusSetPerHour": "1",
-    "BioStatus": "𝐢🖤 𝐓𝐡𝐢𝐬 𝐈𝐬 𝐌𝐲 𝗯𝗼𝘁 𝗶𝗱 🥀
-👑 𝐌𝐲  𝗶𝗱 • 𝐌𝐲 𝐑𝐮𝐥𝐞𝐬 🖤
-
- |🖤|",
-    "AutoLeave": "enable",
+    "BioStatus": "OWNER-𓏧ᥫ᭡‼ ️Ꭾʀɪ፝֟ɴᴄᴇᥫ᭡𓍯𓂃",
+    "AutoLeave": "disable",
     "RandomRedditMemes": "enable",
     "RandomRedditMemesSendPerHour": "1",
     "Randombibleverse": "disable",
